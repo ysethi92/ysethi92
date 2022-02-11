@@ -1,11 +1,12 @@
-# **Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Yash Sethi](https://github.com/ysethi92)**
-<!---
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p align="center">
+<!-- ![img](https://github.com/ysethi92/ysethi92/blob/main/banner.gif) -->
+<img src="https://github.com/ysethi92/ysethi92/blob/main/banner.gif" width="700" height="230"/>
 
-
-ysethi92/ysethi92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# **Hello, folks! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">**
+My name is [Yash Sethi](https://ysethi92.github.io/) and I'm Computer Science Master's student at [Lakehead University](https://www.lakeheadu.ca/), Thunder Bay, ON
+- 👀 I’m interested in developing in making applications for handheld devices.
+- 🌱 I’m currently learning React-Native along with web technologies like HTML/CSS.
+- 💞️ I’m looking for full-time opportunities in Software Development. 
+- ⚡ I love to take part in Competitive Programming competitons on Codechef and Codeforces. 
+- 📫 Reach me on: [Linkedin](https://www.linkedin.com/in/ysethi92/), [Twitter](https://www.twitter.com/ysethi92/).
+</p>
