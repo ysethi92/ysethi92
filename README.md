@@ -12,11 +12,11 @@
 
 ### 👨‍💻 About Me
 
-- 🧑‍💼 I'm a Software Developer at [Phreesia](https://www.phreesia.com/), passionate about crafting scalable backend systems.
+- 🧑‍💼 I'm a Software Engineer II at [Phreesia](https://www.phreesia.com/), passionate about crafting scalable backend systems.
 - 🎓 I hold a Master's in Computer Science from [Lakehead University](https://www.lakeheadu.ca/), Thunder Bay, ON.
 - 🌱 Currently diving into **React Native** and brushing up on web tech like **HTML** and **CSS**.
 - 💡 Enjoy solving problems through **Competitive Programming** on Codeforces & CodeChef.
-- 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/ysethi92/) | [X](https://www.x.com/ysethi92/) | [Portfolio](https://ysethi92.github.io/)
+- 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/ysethi92/) | [X](https://www.x.com/ysethi92/)
 
 ---
 
